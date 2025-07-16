@@ -1,0 +1,19 @@
+{
+	"provider": {
+		"openai": "YOUR_OPENAI_API_KEY_HERE"
+	},
+	"providerLatencyAdd": 0,
+	"cache": {
+		"localJsonlDir": {
+			"enable": true,
+			"path": "./.smol-dev-js/ai-cache"
+		},
+		"mongoDB": {
+			"enable": false,
+			"url": "<CHANGE TO YOUR RESPECTIVE MONGODB URL>"
+		},
+		"promptCache": true,
+		"embeddingCache": true
+	},
+	"providerRateLimit": 2
+}
