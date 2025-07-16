@@ -216,6 +216,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://tiation.com">Tiation</a></p>
+  <p>Built with ❤️ by <a href="https://github.com/tiation">Tiation</a></p>
   <p>Powered by AI 🤖</p>
 </div>
