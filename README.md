@@ -207,7 +207,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/tiation)
 
 ### Enterprise Support
-For enterprise support, contact: enterprise@tiation.com
+For enterprise support, contact: tiatheone@protonmail.com
 
 ## 📄 License
 

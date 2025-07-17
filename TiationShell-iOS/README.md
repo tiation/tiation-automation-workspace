@@ -225,7 +225,7 @@ FileSystemManager.shared.uploadFile(from: localPath, to: remotePath, on: server)
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/tiation/tiationshell-ios/issues)
-- **Email**: support@tiation.com
+- **Email**: tiatheone@protonmail.com
 - **Documentation**: [Wiki](https://github.com/tiation/tiationshell-ios/wiki)
 
 ## 📄 License
