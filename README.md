@@ -203,7 +203,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### Community
 - [GitHub Issues](https://github.com/tiation/automation-workspace/issues)
-- [Discord Community](https://discord.gg/tiation)
+- [Discord Community](https://github.com/tiation)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/tiation)
 
 ### Enterprise Support
